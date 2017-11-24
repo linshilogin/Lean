@@ -1,7 +1,7 @@
 ![alt tag](Documentation/logo.white.small.png)
 Lean C# Algorithmic Trading Engine
 =========
-
+add my symbol
 [![Join the chat at https://www.quantconnect.com/slack](https://cdn.quantconnect.com/lean/i/slack-sm.png)](https://www.quantconnect.com/slack) &nbsp;&nbsp;&nbsp;&nbsp;
 [![Build Status](https://travis-ci.org/QuantConnect/Lean.svg?branch=feature%2Fremove-web-socket-4-net)](https://travis-ci.org/QuantConnect/Lean)
 
